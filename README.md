@@ -1,4 +1,4 @@
-#EN
+# EN
 # How to enter in data base
 1) Run SQL SERVER Management Studio
 on behalf of the administrator. Should have been established
@@ -17,7 +17,7 @@ Disk:\...\PersonnelDepartment_v2\bin\Debug
 In "PersonnelDepartment_v2.exe" <connectionStrings>
 Set the server name in these lines the one you specified when installing SQLSERVER.
   
-#RU
+# RU
 # Как войти в базу данных
 1) Запустите программу SQL SERVER Management Studio
 от имени администратора. Должна была установиться

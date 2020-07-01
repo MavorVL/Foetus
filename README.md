@@ -9,7 +9,7 @@ data" in the "Object Browser" tab
 3) You need to select your database
 
 # For PerssonalDepartment_v2.exe
-login : director1
+login : lyashen
 password : password
 # Error :
 In case of conflict : 
@@ -27,5 +27,5 @@ Set the server name in these lines the one you specified when installing SQLSERV
 данные »на вкладке« Обозреватель объектов »
 3) Вам нужно выбрать базу данных
 # Для входа в систему 
-login : director1 / director
+login : lyashen
 password : password
